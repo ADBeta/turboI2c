@@ -1,0 +1,33 @@
+2023-08-30 11:57:17 Using browser-only version of superagent in non-browser environment
+2023-08-30 11:57:17 Configuring to accept webviews on '^.+\.webview\..+$' hostname.
+2023-08-30 11:57:17 root INFO Configuration directory URI: 'file:///home/ash/.theia'
+2023-08-30 11:57:17 root ERROR (node:4892) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+2023-08-30 11:57:17 root INFO Theia app listening on http://localhost:40957.
+2023-08-30 11:57:17 root WARN The local plugin referenced by local-dir:/home/ash/.arduinoIDE/plugins does not exist.
+2023-08-30 11:57:17 root WARN The local plugin referenced by local-dir:/home/ash/.arduinoIDE/extensions does not exist.
+2023-08-30 11:57:17 root WARN The local plugin referenced by local-dir:/home/ash/.arduinoProIDE/plugins does not exist.
+2023-08-30 11:57:17 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-08-30 11:57:17 root INFO Resolved "cortex-debug" to a VS Code extension "cortex-debug@0.3.10" with engines:
+2023-08-30 11:57:17 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-08-30 11:57:17 root INFO Resolved "vscode-arduino-tools" to a VS Code extension "vscode-arduino-tools@0.0.2-beta.1" with engines:
+2023-08-30 11:57:17 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-08-30 11:57:17 root INFO Resolved "vscode-builtin-cpp" to a VS Code extension "cpp@1.52.1" with engines:
+2023-08-30 11:57:17 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-08-30 11:57:17 root INFO Resolved "vscode-builtin-json" to a VS Code extension "json@1.46.1" with engines:
+2023-08-30 11:57:17 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2023-08-30 11:57:17 root INFO Resolved "vscode-builtin-json-language-features" to a VS Code extension "json-language-features@1.46.1" with engines:
+2023-08-30 11:57:17 root INFO Deploying backend plugin "cortex-debug@0.3.10" from "/usr/share/arduino/arduino-ide_2.0.0/resources/app/plugins/cortex-debug/extension/dist/extension"
+2023-08-30 11:57:17 root INFO Deploying backend plugin "vscode-arduino-tools@0.0.2-beta.1" from "/usr/share/arduino/arduino-ide_2.0.0/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle"
+2023-08-30 11:57:17 root INFO Deploying backend plugin "cpp@1.52.1" from "/usr/share/arduino/arduino-ide_2.0.0/resources/app/plugins/vscode-builtin-cpp/extension"
+2023-08-30 11:57:17 root INFO Deploying backend plugin "json@1.46.1" from "/usr/share/arduino/arduino-ide_2.0.0/resources/app/plugins/vscode-builtin-json/extension"
+2023-08-30 11:57:17 root INFO Deploying backend plugin "json-language-features@1.46.1" from "/usr/share/arduino/arduino-ide_2.0.0/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain"
+2023-08-30 11:57:17 root INFO Deploy plugins list took: 124.3 ms
+2023-08-30 11:57:17 root WARN Backend ConfigServiceImpl.onStart is slow, took: 197.8 ms
+2023-08-30 11:57:17 daemon INFO Starting daemon from /usr/share/arduino/arduino-ide_2.0.0/resources/app/node_modules/arduino-ide-extension/build/arduino-cli...
+2023-08-30 11:57:17 root ERROR Could not start contribution
+2023-08-30 11:57:17 daemon INFO Using config file: /home/ash/.arduinoIDE/arduino-cli.yaml
+2023-08-30 11:57:17 daemon INFO arduino-cli version 0.20.2
+2023-08-30 11:57:17 daemon INFO Executing `arduino-cli daemon`
+2023-08-30 11:57:17 daemon INFO Setting up Prometheus metrics on :9090/metrics
+2023-08-30 11:57:17 daemon INFO {"IP":"127.0.0.1","Port":"40515"}
+2023-08-30 11:57:17 daemon INFO Daemon is running.
